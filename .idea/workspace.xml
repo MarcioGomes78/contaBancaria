@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5607cf8d-bcee-4805-a612-5b298cd34fca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contaBancaria.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programa/Pessoa.java" afterDir="false" />
+    <list default="true" id="5607cf8d-bcee-4805-a612-5b298cd34fca" name="Changes" comment="Criando classe Pessoa">
+      <change afterPath="$PROJECT_DIR$/src/Programa/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utilities/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programa/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +51,14 @@
       <option name="presentableId" value="Default" />
       <updated>1694566564389</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criando classe Pessoa">
+      <created>1694567527929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694567527929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criando classe Pessoa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando classe Pessoa" />
   </component>
 </project>

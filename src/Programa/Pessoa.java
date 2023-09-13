@@ -34,12 +34,12 @@ public class Pessoa {
         this.cpf = cpf;
     }
 
-    public String getEmaiol() {
+    public String getEmail() {
         return email;
     }
 
-    public void setEmaiol(String emaiol) {
-        this.email = emaiol;
+    public void setEmail(String email) {
+        this.email = email;
     }
 
     @Override
